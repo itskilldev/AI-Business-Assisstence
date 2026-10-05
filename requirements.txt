@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
-openai
-python-dotenv
 plotly
+python-dotenv
+google-genai
+openai
